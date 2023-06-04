@@ -1,0 +1,36 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="my_name">Reihan Septyawan</string>
+    <string name="my_email">reihanseptyawan@gmail.com</string>
+
+    <string name="title_about_detail">Contact Person \n  \nTwitter \nInstagram \nLinkedIn \n \nDicoding \nGithub \nEmail</string>
+    <string name="about_detail" tools:ignore="Typos">\n \n@reikha098 \n@rei.rimitchi \nhttps://www.linkedin.com/in/reihan-septyawan-323b84175/  \n \nhttps://www.dicoding.com/users/maskulinnn \nhttps://github.com/Maskulin1 \n20200410700123@student.umj.ac.id</string>
+
+    <string name="movie_title">Nama Film</string>
+    <string name="movie_rate">Rate Film</string>
+    <string name="movie_detail">Detail Film</string>
+    <string name="movie_overview">Deskripsi</string>
+
+    <string name="about_me">About Me</string>
+
+    <string name="movie_deskripsi">Genre: \nDurasi: \nTahun: \nPlatform: \nDirector: \nPemain: </string>
+    <string name="movie_detail_deskripsi">Deskripsi Film: </string>
+
+    <string name="app_name">My Favourite Movies</string>
+    <string name="movies_name">Nama Film</string>
+    <string name="description">Deskripsi</string>
+    <string name="movies_year">Tahun:</string>
+    <string name="movies_platform">Platform:</string>
+    <string name="movies_director">Director:</string>
+    <string name="movies_duration">Durasi:</string>
+    <string name="movies_rating">Rating:</string>
+    <string name="movies_genre">Genre:</string>
+    <string name="movies_title">Judul:</string>
+    <string name="watch_button">Watch</string>
+    <string name="share_button">Share</string>
+    <string name="movies_cast">Pemeran:</string>
+    <string name="movies_description">Deskripsi:</string>
+
+    <string name="judul_movie">Judul</string>
+    <string name="pemeran_movie">Pemeran</string>
+
+</resources>
